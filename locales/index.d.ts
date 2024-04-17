@@ -11083,7 +11083,7 @@ export interface Locale extends ILocale {
 				 */
 				"endDate": string;
 			};
-            "urlLockup": string;
+		"urlLockup": string;
 		};
 }
 declare const locales: {
