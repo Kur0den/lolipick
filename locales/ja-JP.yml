@@ -2950,3 +2950,4 @@ _advancedSearch:
   _specifyDate:
     startDate: "から"
     endDate: "まで"
+  urlLockup: "照会を行いますか？"
